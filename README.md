@@ -16,7 +16,7 @@
 12. Users should be able to receive system alerts when processed material quantities fall below the defined stock threshold.
 
 ## Non-Functional Requirements
-1. Performance: System must handle up to 200 concurrent users with response time < 3 seconds.
+1. Performance: System must handle up to 200 concurrent users with response time less than 3 seconds.
 2. Security: All data transactions must be encrypted using HTTPS/TLS 1.2 or higher.
 3. Usability: User interface must follow a consistent layout and be usable with less than 2 hours of training.
 4. Scalability: System must support a 2× increase in records without performance degradation.
