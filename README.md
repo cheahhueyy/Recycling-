@@ -20,5 +20,5 @@
 2. Security: All data transactions must be encrypted using HTTPS/TLS 1.2 or higher.
 3. Usability: User interface must follow a consistent layout and be usable with less than 2 hours of training.
 4. Scalability: System must support a 2× increase in records without performance degradation.
-5. Reliability: System uptime must be at least 99% per month.
+5. Reliability: System uptime must be at least 99.99% per month.
 6. Backup: Database must automatically back up daily.
